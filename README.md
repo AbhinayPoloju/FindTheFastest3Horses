@@ -35,7 +35,5 @@ The winner of this race (R1C5) is the fastest horse of the entire group. Now, th
 ![image](https://github.com/AbhinayPoloju/FindTheFastest3Horses/assets/84982230/58cd21fb-407a-4cfd-b6e2-4582920e22c9)
 
 
-Find the fastest 3 horses
-
 Therefore, the horse R1C5 is the fastest horse. The horses which come first and second in the last race are the horses which are second and third in the entire group respectively. in this way, the minimum number of races required to determine the first, second and third horses in the entire group is 7. 
  
